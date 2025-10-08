@@ -1,4 +1,3 @@
-# Home-Network-Hardening
 # Home Network Hardening
 
 This repository contains my personal home network security configurations, scripts, and documentation.
